@@ -1,0 +1,41 @@
+
+
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+
+.Google-bullets-ul{
+  list-style-type: square;
+  margin-left: 8vw;
+}
+
+
+.Google-bullets-li{
+  margin-bottom: 2rem;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.h1{
+  text-align: center;
+  padding-top: 40px;
+}
+
+
+img {
+    display: inline-block;
+    margin: 35px 10px; /* Change this to fit all images */
+  }
+.Myheading{
+  margin-top: 2%;
+  margin-left: 2%;
+}
+   .Mystyle{
+    margin-top: 2%;
+    margin-left: 2%;
+ 
+  } 
+  .textstyle{
+    text-align: center;
+    margin-top: 2%;
+  }
+
+  
