@@ -1,6 +1,6 @@
 
-
-*{ margin: 0; padding: 0; box-sizing: border-box;}
+/* 
+*{ margin: 0; padding: 0; box-sizing: border-box;} */
 
 .Infosys-bullets-ul{
   list-style-type: square;
@@ -17,7 +17,9 @@
 .h1{
  
 text-align: center;
-padding-top: 40px;
+padding-top: 10px;
+font-size: 20px;
+color: chocolate;
 }
 img {
     display: inline-block;

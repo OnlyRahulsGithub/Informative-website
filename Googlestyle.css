@@ -1,6 +1,6 @@
 
 
-*{ margin: 0; padding: 0; box-sizing: border-box;}
+/* *{ margin: 0; padding: 0; box-sizing: border-box;} */
 
 .Google-bullets-ul{
   list-style-type: square;
@@ -14,9 +14,11 @@
   font-size: 1.2rem;
 }
 
-.h1{
+.heading-google{
   text-align: center;
-  padding-top: 40px;
+margin-bottom: 0rem;
+font-size: 40px;
+  margin-top: 0rem;
 }
 
 

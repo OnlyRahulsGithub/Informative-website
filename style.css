@@ -32,6 +32,8 @@
   .card{
     text-align: center;
  border: none! important;
+ margin-bottom: 2%;
+ margin-top: 5%;
   }
   .card-body{
     padding: 5px 0! important;
@@ -41,7 +43,7 @@
 .textstyle{
   text-align: center;
   margin-top: 2%;
-  padding-top: px;
+  
  
 }
 .Mystyle{
