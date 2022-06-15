@@ -5,19 +5,22 @@
 /* 
 *{ margin: 0; padding: 0; box-sizing: border-box;} */
 
-.Accenture-bullets-ul{
+.sap-bullets-ul{
   list-style-type: square;
   margin-left: 8vw;
 }
 
 
-.Accenture-bullets-li{
+.sap-bullets-li{
   margin-bottom: 2rem;
   font-weight: bold;
-  font-size: 1.2rem;
+  font-size: 0.9rem;
   margin-top: 3%;
 }
-
+.bodystyle{
+  width: 90%;
+  margin: 0 auto;
+}
 .h1{
  
 text-align: center;
@@ -27,7 +30,7 @@ color: chocolate;
 }
 img {
     display: inline-block;
-    margin: 35px 10px; /* Change this to fit all images */
+    /* Change this to fit all images */
   }
 
   .Mystyle{

@@ -11,9 +11,12 @@
 .Wipro-bullets-li{
   margin-bottom: 2rem;
   font-weight: bold;
-  font-size: 1.2rem;
+  font-size: 0.9rem;
 }
-
+.bodystyle{
+  width: 90%;
+  margin: 0 auto;
+}
 .h1{
  
 text-align: center;
@@ -23,7 +26,7 @@ color: chocolate;
 }
 img {
     display: inline-block;
-    margin: 35px 10px; /* Change this to fit all images */
+    /* Change this to fit all images */
   }
 
   
