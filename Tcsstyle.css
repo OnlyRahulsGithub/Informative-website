@@ -1,0 +1,39 @@
+/* 
+*{ margin: 0; padding: 0; box-sizing: border-box;} */
+
+.tcs-bullets-ul{
+  list-style-type: square;
+  margin-left: 8vw;
+}
+
+
+.tcs-bullets-li{
+  margin-bottom: 2rem;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+.h1{
+ 
+text-align: center;
+padding-top: 10px;
+font-size: 20px;
+color: chocolate;
+margin-bottom: 1rem;
+}
+img {
+    display: inline-block;
+   /* Change this to fit all images */
+  }
+  .Mystyle{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+  }
+
+
+  
+  .textstyle{
+    margin-top: 2%;
+    margin-left: 10%;
+  }
